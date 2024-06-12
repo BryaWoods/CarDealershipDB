@@ -1,0 +1,2 @@
+SELECT CompanyName
+FROM Dealerships;
